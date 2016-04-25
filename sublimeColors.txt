@@ -1,0 +1,8 @@
+{
+	MonoKai - Spacegray
+	Theme - Flatland
+	Theme - Spacegray
+	zenburn
+	Babel
+	JavaScriptNext - ES6 Syntax
+}

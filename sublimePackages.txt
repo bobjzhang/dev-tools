@@ -1,0 +1,16 @@
+{
+	Alignment
+	AutoFileName
+	BracketHighlighter
+	CSS3
+	GitGutter
+	DocBlockr
+	LESS
+	Package Control
+	Sider Bar
+	Trimmer
+	Anaconda
+	Babel
+	SublimeCodeIntel
+	ColorPicker
+}
